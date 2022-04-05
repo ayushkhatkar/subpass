@@ -6,5 +6,6 @@ chmod +x passterbo.sh;
 cd;
 echo "alias sub='./passterbo.sh'" >> .bashrc;
 source .bashrc;
+echo "Note: go to you /home/ and do source .bashrc  right now"
 echo "all set good luck";
 echo "sub [target.com] ";
