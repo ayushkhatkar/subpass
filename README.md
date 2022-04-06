@@ -10,8 +10,8 @@ this is a subdomain enum tool
 4 : ./install.sh<br>
 5 : go to your /Home or root dir then : source .bashrc enter<br>
 6 : go back to your subpass/ dir <br>
-7 : start using it sub example.com <br>
+7 : start using it sub example.com < subdomain.txt <br>
 
 # usage
 
-type: sub [example.com] 
+type: sub [example.com] < wordlist.txt
